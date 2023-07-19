@@ -9,3 +9,6 @@ The overall accuracy of the classifier on the test set is 89%, and the macro ave
 Additionally, the classifier achieved a mean average precision (mAP) of 0.9596, indicating a high level of performance in ranking and identifying images correctly.
 
 Overall, this AI image classifier trained on the CIFAKE dataset demonstrates strong performance, accurately distinguishing between fake and real images with high accuracy and precision.
+
+
+link to access the app:-https://apppy-s3qb58za8as.streamlit.app/
